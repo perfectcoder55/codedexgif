@@ -1,2 +1,2 @@
 # codedexgif
-This is the complete same code from the tutorial
+This is the same code from the Codedex GIF tutorial
